@@ -1,7 +1,7 @@
 # SPS-8514-Education-Domain
 Education Domain
 
-MAIL-ID: gcharannetha@gmailc.com
+MAIL-ID: gcharannetha@gmail.com
 NAME: G CHARAN KUMAR
 COLLEGE: Geetanjali College of Engineering and Technolgy
 PROJECT DOMAIN THEME: EDUCATION
